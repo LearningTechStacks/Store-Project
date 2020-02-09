@@ -1,2 +1,2 @@
 # Store-Project
-Group project to develop a webstore app
+Team based project where we develop a web store app
